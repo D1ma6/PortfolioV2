@@ -1,0 +1,26 @@
+{
+  "name": "PortfolioV2",
+  "version": "1.0.0",
+  "description": "Static Node.js and Express Site | Project 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D1ma6/PortfolioV2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D1ma6/PortfolioV2/issues"
+  },
+  "homepage": "https://github.com/D1ma6/PortfolioV2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^14.11.0",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
+  }
+}
