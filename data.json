@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "id": "0",
+      "project_name": "Random Quote Generator",
+      "description": "Random Quote Generator generates a random quote and dispays it on the screen for the user",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://d1ma6.github.io/Random-Quote-Generator/",
+      "github_link": "https://github.com/D1ma6/Random-Quote-Generator",
+      "image_urls": ["/static/images/random-quote-generator.png"]
+    },
+    {
+      "id": "1",
+      "project_name": "pagination",
+      "description": "Random Quote Generator generates a random quote and dispays it on the screen for the user",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://d1ma6.github.io/pagination/",
+      "github_link": "https://github.com/D1ma6/pagination",
+      "image_urls": [
+        "/static/images/pagination.png",
+        "/static/images/pagination2.png"
+      ]
+    },
+    {
+      "id": "2",
+      "project_name": "Portfolio V1",
+      "description": "My first portfolio designed and developed by me using React.js",
+      "technologies": ["HTML", "CSS", "JavaScript", "React", "Figma"],
+      "live_link": "https://dmytrobula.com/",
+      "github_link": "https://github.com/D1ma6/portfolio",
+      "image_urls": [
+        "/static/images/portfoliov2.png",
+        "/static/images/portfoliov22.png"
+      ]
+    },
+    {
+      "id": "3",
+      "project_name": "Public API Requests",
+      "description": "request a JSON object from the API and parse the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
+      "technologies": ["HTML", "CSS", "JavaScript", "API-requests"],
+      "live_link": "https://d1ma6.github.io/Public-API-Requests/",
+      "github_link": "https://github.com/D1ma6/Public-API-Requests",
+      "image_urls": [
+        "/static/images/public-api-request.png",
+        "/static/images/public-api-request2.png"
+      ]
+    },
+    {
+      "id": "4",
+      "project_name": "Capacity",
+      "description": "Capacity is a Korean fashion agency that provides a link between fashion suppliers, including designers and producers, and fashion retailers. Capacity a complete package of services to their suppliers including sales, brand management, finance and distribution services. Korean fashion is all about the comfort as their every clothing apparel is oversized, be it cardigans, sweatshirts, sweaters or any other clothing.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://d1ma6.github.io/Capacity/",
+      "github_link": "https://github.com/D1ma6/Capacity",
+      "image_urls": [
+        "/static/images/capacity.png",
+        "/static/images/capacity2.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+extends layout.pug
+
+block content
+    .error
+        h1.error-h1= error.status
+        p.error-p= error.message
+        a.error-a(href="/") < go back
