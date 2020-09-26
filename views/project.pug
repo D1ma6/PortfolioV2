@@ -15,11 +15,9 @@ block content
         ul
           each val, index in projects[id].technologies
             li= val
-
-        //- Use template literals and interpolation to add URLs to the hrefs below so they link to the repo and the live version of each project.
+        //- and the live version of each project.
         a.button.expanded(href=`${projects[id].live_link}`) Live Demo
         a.button.expanded(href=`${projects[id].github_link}`) GitHub Repo
-    
-    //- Replace the URLs in the src attributes below with template literals and interpolation to dynamically add three project images.  You only have to add one image.  But adding more images to show your app in different states demonstrates a level of thoroughness and professionalism that potential employers will like to see. 
+    //- render the mimages of the projects
     each val, index in projects[id].image_urls
       img.image(src=`${val}`)
